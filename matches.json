@@ -1,0 +1,98 @@
+[
+  {
+    "team1": "Xi Lai Gaming",
+    "team2": "LEVIATÁN",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 14h 40m",
+    "event": "Playoffs–Lower Round 2 Valorant Masters London 2026",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "Team Vitality",
+    "team2": "FUT Esports",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 17h 40m",
+    "event": "Playoffs–Lower Round 2 Valorant Masters London 2026",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "EDward Gaming",
+    "team2": "Paper Rex",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 3d 13h",
+    "event": "Playoffs–Upper Final Valorant Masters London 2026",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TBD",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 3d 16h",
+    "event": "Playoffs–Lower Round 3 Valorant Masters London 2026",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TBD",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 4d 13h",
+    "event": "Playoffs–Lower Final Valorant Masters London 2026",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TBD",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 5d 13h",
+    "event": "Playoffs–Grand Final Valorant Masters London 2026",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TBD",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "TBD",
+    "event": "Group Stage–Week 1 VCT 2026: Pacific Stage 2",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/640f5ae002674.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TBD",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "TBD",
+    "event": "Group Stage–Week 2 VCT 2026: Pacific Stage 2",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/640f5ae002674.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  }
+]
