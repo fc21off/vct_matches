@@ -80,3 +80,4 @@ if __name__ == "__main__":
     with open("matches.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     print("Fertig! matches.json wurde aktualisiert.")
+    print(json.dumps(data, indent=2, ensure_ascii=False))
