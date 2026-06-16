@@ -30,7 +30,7 @@ def fetch_vct_matches():
                 event_full = event_element.get_text(" ", strip=True)
 
                 # FILTER: Nur VCT, Masters oder Champions
-                if any(keyword in event_full for keyword in ["VCT", "Masters", "Champions"]):
+                if any(keyword in event_full for keyword in ["VCT", "Masters", "Champions", "Challengers"]):
 
                     teams = match.select(".match-item-vs-team-name")
                     scores = match.select(".match-item-vs-team-score")
