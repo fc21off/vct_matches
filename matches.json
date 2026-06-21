@@ -1,17 +1,5 @@
 [
   {
-    "team1": "Paper Rex",
-    "team2": "LEVIATÁN",
-    "score1": "2",
-    "score2": "1",
-    "status": "LIVE",
-    "event": "Playoffs–Grand Final Valorant Masters London 2026",
-    "isLive": true,
-    "event_logo": "https://owcdn.net/img/692fc18a04f4a.png",
-    "team1LogoUrl": null,
-    "team2LogoUrl": null
-  },
-  {
     "team1": "Wolves Esports",
     "team2": "Titan Esports Club",
     "score1": "–",
@@ -86,6 +74,18 @@
   {
     "team1": "Nova Esports",
     "team2": "FunPlus Phoenix",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 2w 6d",
+    "event": "Group Stage–Week 1 VCT 2026: China Stage 2",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/65dd97cea9a25.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TYLOO",
+    "team2": "Trace Esports",
     "score1": "–",
     "score2": "–",
     "status": "Upcoming - 2w 6d",
