@@ -1,22 +1,10 @@
 [
   {
-    "team1": "Evil Geniuses",
-    "team2": "NRG",
-    "score1": "0",
-    "score2": "1",
-    "status": "LIVE",
-    "event": "Group Stage–Week 4 VCT 2026: Americas Stage 2",
-    "isLive": true,
-    "event_logo": "https://owcdn.net/img/640f5ab71dfbb.png",
-    "team1LogoUrl": null,
-    "team2LogoUrl": null
-  },
-  {
     "team1": "LOUD",
     "team2": "100 Thieves",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 1h 46m",
+    "status": "Upcoming - 14m",
     "event": "Group Stage–Week 4 VCT 2026: Americas Stage 2",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/640f5ab71dfbb.png",
@@ -28,7 +16,7 @@
     "team2": "JDG Esports",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 9h 46m",
+    "status": "Upcoming - 9h 9m",
     "event": "Play-Ins–Upper Semifinals VCT 2026: China Stage 2",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/65dd97cea9a25.png",
@@ -40,7 +28,7 @@
     "team2": "Dragon Ranger Gaming",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 11h 46m",
+    "status": "Upcoming - 11h 9m",
     "event": "Play-Ins–Upper Semifinals VCT 2026: China Stage 2",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/65dd97cea9a25.png",
@@ -92,6 +80,18 @@
     "event": "Play-Ins–Lower Final VCT 2026: China Stage 2",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/65dd97cea9a25.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "Gentle Mates",
+    "team2": "Eintracht Frankfurt",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 2d 16h",
+    "event": "Play-Ins–Lower Round 1 VCT 2026: EMEA Stage 2",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/65ab59620a233.png",
     "team1LogoUrl": null,
     "team2LogoUrl": null
   }
