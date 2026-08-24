@@ -1,22 +1,10 @@
 [
   {
-    "team1": "ENVY",
-    "team2": "G2 Esports",
-    "score1": "1",
-    "score2": "1",
-    "status": "LIVE",
-    "event": "Play-Ins–Lower Round 3 VCT 2026: Americas Stage 2",
-    "isLive": true,
-    "event_logo": "https://owcdn.net/img/640f5ab71dfbb.png",
-    "team1LogoUrl": null,
-    "team2LogoUrl": null
-  },
-  {
     "team1": "Evil Geniuses",
     "team2": "KRÜ Esports",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 12m",
+    "status": "Upcoming - 20m",
     "event": "Play-Ins–Lower Round 3 VCT 2026: Americas Stage 2",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/640f5ab71dfbb.png",
@@ -92,6 +80,18 @@
     "event": "Playoffs–Upper Round 1 VCT 2026: Americas Stage 2",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/640f5ab71dfbb.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "TBD",
+    "team2": "ONSIDE GAMING",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 4d 8h",
+    "event": "Playoffs–Lower Round 1 VCT 2026: Pacific Stage 2",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/640f5ae002674.png",
     "team1LogoUrl": null,
     "team2LogoUrl": null
   }
