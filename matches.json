@@ -1,7 +1,7 @@
 [
   {
-    "team1": "Wolves Esports",
-    "team2": "A Team",
+    "team1": "Unsettled Resentment",
+    "team2": "Octagonal Disposition Gaming",
     "score1": "1",
     "score2": "0",
     "status": "LIVE",
@@ -12,8 +12,8 @@
     "team2LogoUrl": null
   },
   {
-    "team1": "Any Questions Gaming",
-    "team2": "World Sports Invictus Gaming",
+    "team1": "Dragon Ranger Gaming",
+    "team2": "Rare Atom",
     "score1": "–",
     "score2": "–",
     "status": "Upcoming - 43m",
@@ -24,35 +24,11 @@
     "team2LogoUrl": null
   },
   {
-    "team1": "Unsettled Resentment",
-    "team2": "Octagonal Disposition Gaming",
-    "score1": "–",
-    "score2": "–",
-    "status": "Upcoming - 2h 43m",
-    "event": "Week 1–Round of 12 VCT China 2026: Threshold",
-    "isLive": false,
-    "event_logo": "https://owcdn.net/img/6009f963577f4.png",
-    "team1LogoUrl": null,
-    "team2LogoUrl": null
-  },
-  {
-    "team1": "Dragon Ranger Gaming",
-    "team2": "Rare Atom",
-    "score1": "–",
-    "score2": "–",
-    "status": "Upcoming - 4h 43m",
-    "event": "Week 1–Round of 12 VCT China 2026: Threshold",
-    "isLive": false,
-    "event_logo": "https://owcdn.net/img/6009f963577f4.png",
-    "team1LogoUrl": null,
-    "team2LogoUrl": null
-  },
-  {
     "team1": "KeepBest Gaming",
-    "team2": "TBD",
+    "team2": "Wolves Esports",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 1d 3h",
+    "status": "Upcoming - 22h 43m",
     "event": "Week 1–Quarterfinals VCT China 2026: Threshold",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/6009f963577f4.png",
@@ -61,10 +37,10 @@
   },
   {
     "team1": "Nova Esports",
-    "team2": "TBD",
+    "team2": "Any Questions Gaming",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 1d 5h",
+    "status": "Upcoming - 1d 0h",
     "event": "Week 1–Quarterfinals VCT China 2026: Threshold",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/6009f963577f4.png",
@@ -76,7 +52,7 @@
     "team2": "MIBR GC",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 1d 11h",
+    "status": "Upcoming - 1d 6h",
     "event": "Main Event–Upper Round 1 Game Changers 2026: Championship São Paulo",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/604be13d01964.png",
@@ -88,10 +64,34 @@
     "team2": "Nova Esports GC",
     "score1": "–",
     "score2": "–",
-    "status": "Upcoming - 1d 14h",
+    "status": "Upcoming - 1d 9h",
     "event": "Main Event–Upper Round 1 Game Changers 2026: Championship São Paulo",
     "isLive": false,
     "event_logo": "https://owcdn.net/img/604be13d01964.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "Titan Esports Club",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 1d 22h",
+    "event": "Week 1–Quarterfinals VCT China 2026: Threshold",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/6009f963577f4.png",
+    "team1LogoUrl": null,
+    "team2LogoUrl": null
+  },
+  {
+    "team1": "FunPlus Phoenix",
+    "team2": "TBD",
+    "score1": "–",
+    "score2": "–",
+    "status": "Upcoming - 2d 0h",
+    "event": "Week 1–Quarterfinals VCT China 2026: Threshold",
+    "isLive": false,
+    "event_logo": "https://owcdn.net/img/6009f963577f4.png",
     "team1LogoUrl": null,
     "team2LogoUrl": null
   }
